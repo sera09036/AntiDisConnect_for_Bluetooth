@@ -1,0 +1,7 @@
+altgraph
+future
+pefile
+playsound
+pyinstaller
+pyinstaller-hooks-contrib
+pywin32-ctypes
